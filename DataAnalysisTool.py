@@ -1,6 +1,4 @@
 #data analysis tool NEW
-#Issac Zachariah
-#B922504
 
 
 #IMPORTS
